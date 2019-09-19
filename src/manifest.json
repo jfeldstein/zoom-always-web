@@ -1,6 +1,6 @@
 {
   "name": "Zoom.us Always Show \"Join From Web\"",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "manifest_version": 2,
   "description": "Zoom.us likes to make it hard to join a meeting using your browser. This extension makes it easy.",
   "homepage_url": "https://github.com/jfeldstein/zoom-always-web",
