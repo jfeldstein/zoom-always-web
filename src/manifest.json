@@ -11,7 +11,7 @@
   },
   "default_locale": "en",
   "permissions": [
-    "https://zoom.us"
+    "*://zoom.us/*"
   ],
   "content_scripts": [
     {
